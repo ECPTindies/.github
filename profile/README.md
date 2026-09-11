@@ -1,4 +1,4 @@
-## ECPTindies
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -9,5 +9,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+This is the official GitHub Organization of ECPTindies.
 
-Yes
+# About ECPTindies
+ECPTindies is a small game development team with game lovers.<br>
+We haven't raised funds yet.
