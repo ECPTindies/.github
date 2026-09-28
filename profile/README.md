@@ -4,7 +4,7 @@ This is the official GitHub Organization of ECPTindies.
 ECPTindies is a small game development team with game lovers.<br>
 We haven't raised funds yet.
 
-# Our Project
+# Our project
 ### HaxeSolution - A Haxe assembly manager.
 This is a manage tool for Haxe.
 
