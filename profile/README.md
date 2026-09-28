@@ -1,6 +1,6 @@
 This is the official GitHub Organization of ECPTindies.
 
-# About ECPTindies
+# About of us
 ECPTindies is a small game development team with game lovers.<br>
 We haven't raised funds yet.
 
