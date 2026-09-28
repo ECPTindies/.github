@@ -6,7 +6,7 @@ We haven't raised funds yet.
 
 # Our project
 ### HaxeSolution - A Haxe assembly manager.
-This is a manage tool for Haxe.
+This is a management tool for Haxe.
 
 ### Nova Engine - Multi-platform Game Engine.
 This is a In-house Game Engine. It has not yet been decided whether to distribute it.
