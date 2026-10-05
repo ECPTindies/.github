@@ -8,6 +8,8 @@ We haven't raised funds yet.
 ### HaxeSolution - A Haxe assembly manager.
 This is a management tool for Haxe.
 
+### HaxeStudio - Cross-platform IDE for software development.
+
 ### Nova Engine - Multi-platform Game Engine.
 This is a In-house Game Engine. It has not yet been decided whether to distribute it.
 
