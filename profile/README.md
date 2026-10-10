@@ -10,8 +10,6 @@ We haven't raised funds yet.
 ## Haxe Library
 - **HaxeSolution** - A Haxe project manager.
   - A management tool for Haxe.
-- **hxlibfile**
-  - Target to a single binary file for libraries available in Haxe.
 
 ## HaxeStudio - Cross-platform IDE for software development.
 
