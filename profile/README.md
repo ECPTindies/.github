@@ -3,7 +3,7 @@
 This is the official GitHub Organization of **nodalyx**.
 
 # About of us
-ECPTindies is a small game development team with game lovers.<br>
+nodalyu is a small Software & Application development team with game lovers.<br>
 We haven't raised funds yet.
 
 # Our project
