@@ -1,3 +1,5 @@
+<img alt="nodalyx" src="https://raw.githubusercontent.com/ECPTindies/.github/main/img/nodalyx-wordmark-bg.svg">
+
 # [nodalyx] Initialization
 This is the official GitHub Organization of ECPTindies.
 
