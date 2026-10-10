@@ -1,4 +1,4 @@
-# [ECPTindies] Initialization
+# [nodalyx] Initialization
 This is the official GitHub Organization of ECPTindies.
 
 # About of us
